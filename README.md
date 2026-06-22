@@ -50,7 +50,7 @@ Requisitos:
 Na raiz do projeto, onde esta o arquivo 'pom.xml', execute:
 
 --- bash ---
-mvn clean javafx:run
+mvn javafx:run
 ---
 
 ### Opcao 2: pela IDE
